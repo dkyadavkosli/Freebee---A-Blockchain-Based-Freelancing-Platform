@@ -1,3 +1,5 @@
+<img alt="Coding" width="400%" src="https://drive.google.com/uc?export=view&id=198lFoIBOOqy-rsPMPa-NbyvmUirtoBq5">
+
 # Introduction
 
 Freebe is a blockchain-based web platform where companies can create jobs on the portal and get applications from various freelancers. The job creator selects the best suitable freelancer and the corresponding amount of money is deducted from their wallet. When the freelancer achieves a milestone of a particular job, the corresponding proportion of money is transferred to their wallet. Before applying for a job, a freelancer has to make a profile on the platform so that the job creators can get to know about the skills and experiences of the freelancer.
